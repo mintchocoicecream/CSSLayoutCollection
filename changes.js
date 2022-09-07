@@ -31,7 +31,7 @@ itemsList.forEach((item) => {
         }else if(item.id === "paintBox") {
             existImg.setAttribute('src', 'dest/img/paintBox.jpg');
         }else if(item.id === "10X19") {
-            existImg.setAttribute('src', 'dest/img/10X19.jpg');
+            existImg.setAttribute('src', 'dest/img/10X19.JPG');
         }else if(item.id === "zoo") {
             existImg.setAttribute('src', 'dest/img/zoo.jpg');
         }else if(item.id === "schwartz") {
